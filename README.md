@@ -36,7 +36,7 @@ def circulate():
 ```
 
 ## Output:
-![images](./image/circulateoutput.png)
+![images](image/circulateoutput.png)
 
 ## Result:
 Thus the Circulate-the-values-of-N-variables are successfully executed
